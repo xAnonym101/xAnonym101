@@ -1,7 +1,7 @@
 # Welcome To My Profile! 🫡
 ## 👨‍🔧 My name is Steven Gonawan. I am interested in the world of A.I and Application development, and because of this I tried to learn quite a lot of stuff relaated to coding and hence the reason why i joined Informatics major in my college.
 
-### Here are some things I am confident at:
+### Here are some programming language I use:
 1. Java
 2. Python
 3. Kotlin
